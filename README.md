@@ -1,5 +1,3 @@
-# Serviço de envio de e-mail para pesquisa de NPS
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt3VPWPHpK0krSw/giphy.gif"/>
   <h1 align="center">NPS Mail</h1>
