@@ -8,12 +8,15 @@
   <img src="https://forthebadge.com/images/badges/made-with-typescript.svg"/>
 </p>
 
+## Desenvolvimento
+* Banco de dados 
+* Example
 
-# Tecnologia
+## Tecnologia
 * Node.js (14.15.4)
 
-# Versão
+## Versão
 * 0.0.1
 
-# Bibliotecas
+## Bibliotecas
 * example: 1.3.2
